@@ -34,3 +34,5 @@ proguard-project.txt
 # Android Studio/IDEA
 *.iml
 .idea
+/.github/ISSUE_TEMPLATE/calculate-a-custom-tip-issue-template.md
+/.github/ISSUE_TEMPLATE/intro-to-state-issue-template.md
